@@ -13,11 +13,12 @@
 
 ## Project Structure 📁
 
-.
-├── index.html      # The main HTML file with the calculator structure
-├── style.css       # The CSS file for styling and layout
-└── script.js       # The JavaScript file containing all the logic
 
+├── index.html      # The main HTML file with the calculator structure
+
+├── style.css       # The CSS file for styling and layout
+
+└── script.js       # The JavaScript file containing all the logic
 
 
 ---
